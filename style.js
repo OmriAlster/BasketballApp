@@ -6,7 +6,7 @@ const styles = StyleSheet.create({
       alignItems: 'center'
     },
     goalsList: {
-      width: '100%'
+      
     }
   });
 
