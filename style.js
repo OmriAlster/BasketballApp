@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import {StyleSheet} from 'react-native';
 
 const styles = StyleSheet.create({
@@ -10,4 +11,18 @@ const styles = StyleSheet.create({
     }
   });
 
+=======
+import {StyleSheet} from 'react-native';
+
+const styles = StyleSheet.create({
+    screen: {
+      padding: 50,
+      alignItems: 'center'
+    },
+    goalsList: {
+      
+    }
+  });
+
+>>>>>>> 6e98602f8a216b0fcd052601dde493bec41e3c1c
 export default styles;
